@@ -1,0 +1,3 @@
+import laoedit
+
+laoedit.hello()
