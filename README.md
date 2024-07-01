@@ -4,4 +4,3 @@
 
 ### About
 - **Version**: 1.0 alpha
-- **Branch**: Develop
